@@ -1,0 +1,14 @@
+{
+    "Ejemplos":[
+        {
+            "Dia": "Lunes",
+            "Cantidad":"3",
+            "Autoevaluacion":"Texto de Ejemplo"
+        },
+        {
+            "Dia": "Martes",
+            "Cantidad":"1",
+            "Autoevaluacion":"Texto de Ejemplo"
+        }
+    ]
+}
